@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesnju&label=Profile%20views&color=0e75b6&style=flat" alt="jamesnju" /> </p>
 
-- 🌱 I’m currently learning **reactjs, Flatter**
+- 🌱 I’m currently learning **Node And Flatter**
 
-- 👯 I’m looking to collaborate on **react Redux,php projects**
+- 👯 I’m looking to collaborate on **React ,PHP Projects**
 
-- 🤝 I’m looking for help with **python**
+- 🤝 I’m looking for help with **Python**
 
-- 💬 Ask me about **reactjs,html,css,javascript**
+- 💬 Ask me about **Reactjs,HTML5,CSS,Javascript**
 
 - 📫 How to reach me **james500nju@gmail.com**
 
