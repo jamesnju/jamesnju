@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesnju&label=Profile%20views&color=0e75b6&style=flat" alt="jamesnju" /> </p>
 
-- 🌱 I’m currently learning **Node And Flatter**
+- 🌱 I’m currently learning **Node And Nextjs**
 
 - 👯 I’m looking to collaborate on **React ,PHP Projects**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I’m looking for help with **Python,Node**
 
-- 💬 Ask me about **Reactjs,HTML5,CSS,Javascript**
+- 💬 Ask me about **Reactjs,HTML5,CSS,Javascript,APIs**
 
 - 📫 How to reach me **james500nju@gmail.com**
 
@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesnju&show_icons=true&locale=en" alt="jamesnju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesnju&" alt="jamesnju" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?jamesnju=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jamesnju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
