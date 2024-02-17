@@ -43,5 +43,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jamesnju&show_icons=true&locale=en" alt="jamesnju" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesnju&" alt="jamesnju" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamesnju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=jamesnju&theme=onedark"/>  </p>
