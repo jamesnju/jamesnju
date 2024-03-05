@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm jamesnju</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">Hi There👋, I'm jamesnju</h3>
+<h5 align="center">A passionate software developer</h5>
 
 <!-- <img align="right" alt="coding" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
  --><img align="right" alt="coding" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="250"/>
