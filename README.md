@@ -1,4 +1,3 @@
-![Header](https://res.cloudinary.com/da3wjnlzg/image/upload/v1690096527/github-banner_mt2trc.png)
 ### Hi there 👋
 
 <!--
