@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamesnju&label=Profile%20views&color=0e75b6&style=flat" alt="jamesnju" /> </p>
 
-- 🌱 I’m currently learning **Node **
+- 🌱 I’m currently learning **Node**
 
 - 👯 I’m looking to collaborate on **Reactjs, Nextjs , Php Projects**
 
@@ -31,21 +31,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Reactjs, HTML5,  CSS, Javascript, APIs, Nextjs, Php**
 - ⚡ Fun fact: I prefer spaces over tabs
 
-- 📫 How to reach me **james500nju@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-🚀 I’m currently learning Reactjs<br>⭐ Ask me anything about MERN Stack<br>⚡ Fun fact: I prefer tabs over spaces
-
-<!-- @coding_dev_ | Tilak -->
-
 ## Let's Connect ⚡
 Reach me out:  **james500nju@gmail.com**
 <br><br>
 # Tech Stack 💻 
 ### Languages
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JAVA](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JAVA](https://img.shields.io/badge/java-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### Hosting
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
  <!--![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)-->  <!--![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)-->
@@ -54,14 +45,14 @@ Reach me out:  **james500nju@gmail.com**
   ### Databases & Design Tools
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Xampp](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CAdopeXd](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tilakjain123&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tilakjain123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tilakjain123&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=jamesnju&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jamesnju&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jamesnju&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=tilakjain123&icon=0&color=6)](https://visitcount.itsvg.in)
 
   ##  Support my work
- <a href="https://www.buymeacoffee.com/coding_dev_" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 250px !important" ></a>
+ <a href="#" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="width: 250px !important" ></a>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jamesnju&" alt="jamesnju" /></p>
