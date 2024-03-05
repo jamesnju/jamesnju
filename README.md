@@ -1,3 +1,4 @@
+![Header](https://res.cloudinary.com/da3wjnlzg/image/upload/v1690096527/github-banner_mt2trc.png)
 ### Hi there 👋
 
 <!--
@@ -15,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm jamesnju</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate software developer</h3>
+<h2 align="center">i Love coding</h2>
+
+
 <!-- <img align="right" alt="coding" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
  --><img align="right" alt="coding" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="250"/>
 
@@ -27,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **Python,Node**
 
-- 💬 Ask me about **Reactjs,HTML5,CSS,Javascript,APIs**
+- 💬 Ask me about **Reactjs,HTML5,CSS,Javascript,APIs,Nextjs**
 
 - 📫 How to reach me **james500nju@gmail.com**
 
