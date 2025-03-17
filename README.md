@@ -27,14 +27,11 @@ Hello! I'm James Nju, a passionate software developer with a broad range of skil
 Here are some of the projects I have worked on:
 
 ### Project One
-- **Description**: A project that demonstrates my skills in [technology].
+- **Description**: A project that demonstrates my skills in [StudentID].
 - **Technologies Used**: Next.js, React.js, Tailwind CSS, Prisma
-- **Repository**: [Link to Project One](#)
+- **Repository**: [Link to Project One](https://studentidfinder.vercel.app/)
 
-### Project Two
-- **Description**: Another project that showcases my expertise in [another technology].
-- **Technologies Used**: C#, .NET ASP, SQL Server
-- **Repository**: [Link to Project Two](#)
+
 
 ## 📊 GitHub Stats
 
@@ -49,8 +46,8 @@ Here are some of the projects I have worked on:
 
 ## 📫 Contact Information
 
-- **Email**: jamesnju@example.com
-- **LinkedIn**: [James Nju](https://www.linkedin.com/in/jamesnju)
+- **Email**: james500nju@gmail.com
+- **LinkedIn**: [James Nju](https://www.linkedin.com/in/jamesmuniu)
 - **GitHub**: [jamesnju](https://github.com/jamesnju)
 
 Feel free to reach out to me for collaboration or any queries.
@@ -70,10 +67,6 @@ You can view my resume [here](#).
 - [How to Build a Scalable Web Application](#)
 - [Understanding Prisma in Depth](#)
 - [CSS Tricks and Tips for Modern Web Development](#)
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
